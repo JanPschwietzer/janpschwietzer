@@ -11,5 +11,3 @@ Später habe ich immer mehr das Interesse an Web und Mobile-Apps gewonnen und ha
 Viele dieser Projekte findet man hier auf meinem Github. Ich empfehle einen Blick in meine angepinnten Projekte, da diese eine interessante Readme besitzen.
 
 ![Codewars.com Badge](https://www.codewars.com/users/JanPschwietzer/badges/large)
-
-Ich bin derzeit aktiv auf der Suche nach einem Arbeitgeber als Junior iOS- oder Webentwickler! Melden Sie sich gerne unter [jan.p.schwietzer(at)gmail.com](mailto:jan.p.schwietzer@gmail.com)!
